@@ -31,3 +31,8 @@ Hardware Requirement
 1. CPU: 2 x 64-bit 2.8 GHz 8.00 GT/s CPUs
 2. RAM: 4GB or more (DDR3 RAM).
 3. Storage: 300 GB or more.
+
+
+![](output.jpg)
+
+![](output2.jpg)
