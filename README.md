@@ -33,6 +33,11 @@ Hardware Requirement
 3. Storage: 300 GB or more.
 
 
+||| Note: Please write the path carefully |||
+
+Output: 
+1.
 ![](images/output.png)
 
+2.
 ![](images/output2.png)
