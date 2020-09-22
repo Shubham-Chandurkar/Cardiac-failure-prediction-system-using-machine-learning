@@ -33,6 +33,6 @@ Hardware Requirement
 3. Storage: 300 GB or more.
 
 
-![](images/output.PNG)
+![](images/output.png)
 
-![](images/output2.PNG)
+![](images/output2.png)
